@@ -34,4 +34,25 @@ mvn clean install
 mvn spring-boot:run
 ```
 
+### Open Temporal at
+
+```bash
+http://localhost:8233/
+```
+### Workflow dashboard screenshot.
+
+![alt text](https://github.com/taukilali/temporalworkflow/blob/main/assets/0.png)
+
+
+![alt text](https://github.com/taukilali/temporalworkflow/blob/main/assets/1.png)
+
+
+![alt text](https://github.com/taukilali/temporalworkflow/blob/main/assets/3.png)
+
+
+
+![alt text](https://github.com/taukilali/temporalworkflow/blob/main/assets/2.png)
+
+
+
 
