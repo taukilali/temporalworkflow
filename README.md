@@ -30,6 +30,7 @@ docker-compose up
 ### Step 2: Set Up a Java Application to Connect to Temporal
 
 ```bash
+git clone https://github.com/taukilali/temporalworkflow.git
 mvn clean install
 mvn spring-boot:run
 ```
