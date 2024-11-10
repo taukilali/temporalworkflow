@@ -37,8 +37,4 @@ public class TemporalConfig {
         return worker;
     }
 
-//    @Bean
-//    public void startWorker(WorkerFactory factory) {
-//        factory.start();
-//    }
 }
